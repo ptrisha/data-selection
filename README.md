@@ -15,6 +15,8 @@ Anders Søgaard. 2011. [Data point selection for cross-language adaptation of de
 
 ## Machine Translation
 
-Robert C Moore and William D Lewis. 2010. IntelligentSelection of Language Model Training Data.ACL-2010: 48th Annual Meeting of the Associationfor Computational Linguistics, (July):220–224. [local copy](./papers/intelligent_selection_of_language_model_training data.pdf)
+Robert C Moore and William D Lewis. 2010. IntelligentSelection of Language Model Training Data.ACL-2010: 48th Annual Meeting of the Associationfor Computational Linguistics, (July):220–224. [local copy](./papers/intelligent_selection_of_language_model_training_data.pdf)
+
+
 
 
